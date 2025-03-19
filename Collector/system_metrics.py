@@ -27,7 +27,7 @@ def get_current_power():
             ["sudo", "ipmi-dcmi", "--get-system-power-statistics"],
             capture_output=True, text=True, check=True
         )
-        match = re.search(r"Current Power\\s*:\\s*(\\d+)\\s*Watts", result.stdout)
+        match = re.search(r"Current Power\s*:\s*(\d+)\s*[Ww]atts", result.stdout)
         return int(match.group(1)) if match else None
     except Exception:
         return None
