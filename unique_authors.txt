@@ -1,0 +1,605 @@
+Author: A. Fleck
+  Link: http://cs.iit.edu/~scs/assets/files/Anthony_oed_pdsw16.pdf
+
+Author: A. Gainaru
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: A. Gentile
+  Link: http://cs.iit.edu/~scs/assets/files/DSN12.pdf
+
+Author: A. Haider
+  Link: http://cs.iit.edu/~scs/assets/files/haider_2018.pdf
+
+Author: A. Kougkas
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: A. Kravtsov
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.713.5156&rep=rep1&type=pdf
+
+Author: A. Nigmetov
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: A. Torres
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: A. Y. Zomaya
+  Link: http://cs.iit.edu/~scs/assets/files/auto_provision_tcc15.pdf
+
+Author: B. Allcock
+  Link: http://cs.iit.edu/~scs/assets/files/ning2020dismemsys.pdf
+
+Author: B. Feng
+  Link: http://cs.iit.edu/~scs/assets/files/PortHadoop_ieee.pdf
+
+Author: B. Long
+  Link: http://cs.iit.edu/~scs/assets/files/lu2024aces.pdf
+
+Author: B. Nicolae
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024kvcache_poster.pdf
+
+Author: B. Toonen
+  Link: http://cs.iit.edu/~scs/assets/files/ning2020dismemsys.pdf
+
+Author: B. Wang
+  Link: https://www.cs.fsu.edu/~yuw/pubs/2015-ICS-Yu.pdf
+
+Author: B. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/baoyu.pdf
+
+Author: C. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/Yong_ISPA16.pdf
+
+Author: C. Feng
+  Link: http://cs.iit.edu/~scs/assets/files/dominoes.pdf
+
+Author: C. Huang
+  Link: http://cs.iit.edu/~scs/assets/files/Heterogeneity-Aware%20Collective%20IO%20for%20Parallel%20IO%20Systems%20with%20Hybrid%20HDD_SSD%20Servers.pdf
+
+Author: C. Jiang
+  Link: http://cs.iit.edu/~scs/assets/files/C-AMAT_GPGPU.pdf
+
+Author: C. Li
+  Link: http://cs.iit.edu/~scs/assets/files/ISPA2019-ChundianLi.pdf
+
+Author: C. Maltzahn
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: C. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/wang2019cost.pdf
+
+Author: C.-Z. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/ye2020sova.pdf
+
+Author: D. Buono
+  Link: http://cs.iit.edu/~scs/assets/files/haider_2018.pdf
+
+Author: D. Fan
+  Link: http://cs.iit.edu/~scs/assets/files/zou2024skyway.pdf
+
+Author: D. Georgakopoulos
+  Link: http://cs.iit.edu/~scs/assets/files/auto_provision_tcc15.pdf
+
+Author: D. Jin
+  Link: http://publish.illinois.edu/science-of-security-lablet/files/2014/05/A-Modeling-and-Simulation-of-Extreme-Scale-Fat-Tree-Networks-for-HPC-Systems-and-Data-Centers.pdf
+
+Author: D. Kimpe
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-dongfang.pdf
+
+Author: D. Li
+  Link: https://dl.acm.org/ft_gateway.cfm?id=2968457&type=pdf
+
+Author: D. Morozov
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: D. Ren
+  Link: https://www.mcs.anl.gov/events/workshops/p2s2/2012/slides/p2s2-2012-Tang-adaptive-sched-pres.pdf
+
+Author: D. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/APC_TC.pdf
+
+Author: D. Zhao
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-dongfang.pdf
+
+Author: E. Berrocal
+  Link: https://pdfs.semanticscholar.org/19d6/86007a37f599b850bfbca391a5d7d869def8.pdf
+
+Author: E.-S. Jun
+  Link: https://www.mcs.anl.gov/~kettimut/publications/BigData16.pdf
+
+Author: F. Cappello
+  Link: https://pdfs.semanticscholar.org/19d6/86007a37f599b850bfbca391a5d7d869def8.pdf
+
+Author: F. Checconi
+  Link: http://cs.iit.edu/~scs/assets/files/haider_2018.pdf
+
+Author: F. Liang
+  Link: http://cs.iit.edu/~scs/assets/files/LCIndex.pdf
+
+Author: G. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: G. Eisenhauer
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: G. Gibson
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: G. Grider
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: G. Heber
+  Link: http://cs.iit.edu/~scs/assets/files/rajesh2020characterizing-poster.pdf
+
+Author: G. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/auto_provision_tcc15.pdf
+
+Author: H. Che
+  Link: http://cs.iit.edu/~scs/assets/files/OED_DataCloud17.pdf
+
+Author: H. Devarajan
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: H. Eslami
+  Link: http://cs.iit.edu/~scs/assets/files/Anthony_kvstore_journal.pdf
+
+Author: H. Jin
+  Link: http://link.springer.com/chapter/10.1007/978-1-4939-2092-1_18
+
+Author: H. Lee
+  Link: http://cs.iit.edu/~scs/assets/files/lee2023data.pdf
+
+Author: H. Najafi
+  Link: http://cs.iit.edu/~scs/assets/files/lu2024chrome.pdf
+
+Author: H. Song
+  Link: http://cs.iit.edu/~scs/assets/files/dang2024pmalloc.pdf
+
+Author: H. Tang
+  Link: http://cs.iit.edu/~scs/assets/files/rajesh2021features_poster.pdf
+
+Author: H. Trivino
+  Link: http://cs.iit.edu/~scs/assets/files/cernuda2019eviction.pdf
+
+Author: H. Zheng
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: H. Zhu
+  Link: http://cs.iit.edu/~scs/assets/files/data_prefetcher.pdf
+
+Author: H. Zou
+  Link: http://cs.iit.edu/~scs/assets/files/ipdps12-zou.pdf
+
+Author: I. Raicu
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-dongfang.pdf
+
+Author: I. Sadooghi
+  Link: https://ieeexplore.ieee.org/iel7/7307300/7307539/07307589.pdf
+
+Author: I. Yildirim
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: J. Bent
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: J. Brandt
+  Link: http://cs.iit.edu/~scs/assets/files/DSN12.pdf
+
+Author: J. Cernuda
+  Link: http://cs.iit.edu/~scs/assets/files/cernuda2024jarvis.pdf
+
+Author: J. Firoz
+  Link: http://cs.iit.edu/~scs/assets/files/lee2023data.pdf
+
+Author: J. He
+  Link: http://cs.iit.edu/~scs/assets/files/jun_hpdc13.pdf
+
+Author: J. Jenkins
+  Link: http://mypages.iit.edu/~xyang56/papers/sc16-bully.pdf
+
+Author: J. Ji
+  Link: http://cs.iit.edu/~scs/assets/files/jin_icpp_12.pdf
+
+Author: J. L. Bez
+  Link: http://cs.iit.edu/~scs/assets/files/rajesh2024tunio.pdf
+
+Author: J. Li
+  Link: http://cs.iit.edu/~scs/assets/files/yanlong_ipdps13.pdf
+
+Author: J. Liu
+  Link: http://cs.iit.edu/~scs/assets/files/lu2024chrome.pdf
+
+Author: J. Lofstead
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: J. Wang
+  Link: https://ieeexplore.ieee.org/iel7/7307300/7307539/07307592.pdf
+
+Author: J. Wu
+  Link: https://link.springer.com/article/10.1007/s11227-014-1324-5
+
+Author: J. Ye
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024kvcache_poster.pdf
+
+Author: J. Zhou
+  Link: http://cs.iit.edu/~scs/assets/files/he2019holicTPDs.pdf
+
+Author: J. Zhu
+  Link: http://cs.iit.edu/~scs/assets/files/wu2024autohet.pdf
+
+Author: J.-S. Yeom
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: K. Bateman
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: K. Feng
+  Link: http://cs.iit.edu/~scs/assets/files/NIOBE_PDF_A.pdf
+
+Author: K. Mohror
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: K. Velusamy
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: K. Wang
+  Link: https://ieeexplore.ieee.org/iel7/7307300/7307539/07307589.pdf
+
+Author: L. Bautista-Gomez
+  Link: https://pdfs.semanticscholar.org/19d6/86007a37f599b850bfbca391a5d7d869def8.pdf
+
+Author: L. Dulac
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: L. Guo
+  Link: http://cs.iit.edu/~scs/assets/files/tang2024dayu.pdf
+
+Author: L. Logan
+  Link: http://cs.iit.edu/~scs/assets/files/cernuda2024jarvis.pdf
+
+Author: L. Pottier
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: L. Schneidenbach
+  Link: http://cs.iit.edu/~scs/assets/files/haider_2018.pdf
+
+Author: L. Shou
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024bipartite.pdf
+
+Author: L. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/auto_provision_tcc15.pdf
+
+Author: L. Yan
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: L. Yu
+  Link: https://ieeexplore.ieee.org/iel7/12/7079452/06798722.pdf
+
+Author: M. Dorier
+  Link: http://cs.iit.edu/~scs/assets/files/eScience16.pdf
+
+Author: M. E. Papka
+  Link: http://www.cs.iit.edu/~lan/publications/sc13_final.pdf
+
+Author: M. G. Venkata
+  Link: http://cs.iit.edu/~scs/assets/files/fastfit.pdf
+
+Author: M. Kotsifakou
+  Link: https://dl.acm.org/ft_gateway.cfm?ftid=1643727&id=2831249
+
+Author: M. Lang
+  Link: https://ieeexplore.ieee.org/iel7/7307300/7307539/07307589.pdf
+
+Author: M. Mubarak
+  Link: http://cs.iit.edu/~scs/assets/files/xingwang_ipdps2018.pdf
+
+Author: M. Papka
+  Link: http://www.cs.iit.edu/~zlan/publications/cluster17_final.pdf
+
+Author: M. Song
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024bipartite.pdf
+
+Author: M. Tang
+  Link: http://cs.iit.edu/~scs/assets/files/tang2024dayu.pdf
+
+Author: M. Zhang
+  Link: http://cs.iit.edu/~scs/assets/files/zou2024skyway.pdf
+
+Author: M. Zou
+  Link: http://cs.iit.edu/~scs/assets/files/zou2024skyway.pdf
+
+Author: N. Desai
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-shuibing-02.pdf
+
+Author: N. Gnedin
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.713.5156&rep=rep1&type=pdf
+
+Author: N. Lewis
+  Link: http://cs.iit.edu/~scs/assets/files/cernuda2024jarvis.pdf
+
+Author: N. Liu
+  Link: http://publish.illinois.edu/science-of-security-lablet/files/2014/05/A-Modeling-and-Simulation-of-Extreme-Scale-Fat-Tree-Networks-for-HPC-Systems-and-Data-Centers.pdf
+
+Author: N. Podhorszki
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: N. Rajesh
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: N. Tallent
+  Link: http://cs.iit.edu/~scs/assets/files/tang2024dayu.pdf
+
+Author: N. Zhang
+  Link: http://cs.iit.edu/~scs/assets/files/ning2020dismemsys.pdf
+
+Author: O. Kogiou
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: O. Yildiz
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: P. Challa
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2018vidya_paper.pdf
+
+Author: P. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/wu2024autohet.pdf
+
+Author: P. Espina
+  Link: http://cs.iit.edu/~scs/assets/files/liu2021study.pdf
+
+Author: P. Hong
+  Link: http://cs.iit.edu/~scs/assets/files/dang2024pmalloc.pdf
+
+Author: P. Rich
+  Link: http://www.cs.iit.edu/~zlan/publications/cluster17_final.pdf
+
+Author: P. Widener
+  Link: http://cs.iit.edu/~scs/assets/files/logan2021pmemcpy_poster.pdf
+
+Author: Q. Gong
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: Q. Koziol
+  Link: http://cs.iit.edu/~scs/assets/files/rajesh2021features_poster.pdf
+
+Author: R. Brightwell
+  Link: https://dl.acm.org/citation.cfm?id=3158212
+
+Author: R. Ge
+  Link: http://cs.iit.edu/~scs/assets/files/ccgrid12-ge.pdf
+
+Author: R. Kettimuthu
+  Link: https://www.mcs.anl.gov/~kettimut/publications/BigData16.pdf
+
+Author: R. Latham
+  Link: http://cs.iit.edu/~scs/assets/files/eScience16.pdf
+
+Author: R. Ranjan
+  Link: http://cs.iit.edu/~scs/assets/files/auto_provision_tcc15.pdf
+
+Author: R. Ross
+  Link: http://cs.iit.edu/~scs/assets/files/xingwang_ipdps2018.pdf
+
+Author: R. Thakur
+  Link: http://cs.iit.edu/~scs/assets/files/Anthony_kvstore_journal.pdf
+
+Author: R. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: S. Byna
+  Link: http://cs.iit.edu/~scs/assets/files/cernuda2024jarvis.pdf
+
+Author: S. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/chen2022accelerating.pdf
+
+Author: S. Coghlan
+  Link: http://cs.iit.edu/~scs/assets/files/Wallace_SC_16.pdf
+
+Author: S. Di
+  Link: https://pdfs.semanticscholar.org/19d6/86007a37f599b850bfbca391a5d7d869def8.pdf
+
+Author: S. He
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: S. Herbein
+  Link: http://cs.iit.edu/~scs/assets/files/bateman2022luxio.pdf
+
+Author: S. Hu
+  Link: http://cs.iit.edu/~scs/assets/files/chen2023icache.pdf
+
+Author: S. Klasky
+  Link: http://cs.iit.edu/~scs/assets/files/gainaru2024derive.pdf
+
+Author: S. Levy
+  Link: http://cs.iit.edu/~scs/assets/files/logan2021pmemcpy_poster.pdf
+
+Author: S. Liu
+  Link: https://www.mcs.anl.gov/~kettimut/publications/BigData16.pdf
+
+Author: S. Ma
+  Link: http://cs.iit.edu/~scs/assets/files/ipdps12-zou.pdf
+
+Author: S. Song
+  Link: http://cs.iit.edu/~scs/assets/files/C-AMAT_GPGPU.pdf
+
+Author: S. Wallace
+  Link: http://cs.iit.edu/~scs/assets/files/Wallace_SC_16.pdf
+
+Author: S. Wang
+  Link: https://dl.acm.org/ft_gateway.cfm?id=2968457&type=pdf
+
+Author: S. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: S. Yang
+  Link: http://cs.iit.edu/~scs/assets/files/wu2024autohet.pdf
+
+Author: S. Yao
+  Link: https://dl.acm.org/ft_gateway.cfm?id=2968457&type=pdf
+
+Author: S. Zhou
+  Link: http://cs.iit.edu/~scs/assets/files/SciDP_Kun2018.pdf
+
+Author: T. Jones
+  Link: http://mypages.iit.edu/~lyu17/papers/icac.pdf
+
+Author: T. Kasampalis
+  Link: https://dl.acm.org/ft_gateway.cfm?ftid=1643727&id=2831249
+
+Author: T. Matsui
+  Link: http://cs.iit.edu/~scs/assets/files/framework_zhou.pdf
+
+Author: T. Peterka
+  Link: http://cs.iit.edu/~scs/assets/files/ye2024viper.pdf
+
+Author: T. Wu
+  Link: http://cs.iit.edu/~scs/assets/files/wu2024autohet.pdf
+
+Author: V. Morozov
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-shuibing-02.pdf
+
+Author: V. Vishwanath
+  Link: http://cs.iit.edu/~scs/assets/files/stimulus2022.pdf
+
+Author: W. Allcock
+  Link: http://www.cs.iit.edu/~zlan/publications/cluster17_final.pdf
+
+Author: W. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/wu2024autohet.pdf
+
+Author: W. D. Gropp
+  Link: http://cs.iit.edu/~scs/assets/files/Anthony_kvstore_journal.pdf
+
+Author: W. Tang
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-shuibing-02.pdf
+
+Author: W. Tao
+  Link: http://cs.iit.edu/~scs/assets/files/framework_zhou.pdf
+
+Author: W. Yang
+  Link: https://ieeexplore.ieee.org/iel7/7529829/7536347/07536575.pdf
+
+Author: W. Yu
+  Link: http://cs.iit.edu/~scs/assets/files/devarajan2024dftracer.pdf
+
+Author: W. Zhang
+  Link: http://cs.iit.edu/~scs/assets/files/baoyu.pdf
+
+Author: X. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: X. Duan
+  Link: http://cs.iit.edu/~scs/assets/files/ipdps12-zou.pdf
+
+Author: X. Fan
+  Link: http://cs.iit.edu/~scs/assets/files/wang2019cost.pdf
+
+Author: X. Feng
+  Link: http://cs.iit.edu/~scs/assets/files/ccgrid12-ge.pdf
+
+Author: X. Huang
+  Link: http://cs.iit.edu/~scs/assets/files/shuibing_cluster13.pdf
+
+Author: X. Li
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: X. Lu
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: X. Que
+  Link: http://cs.iit.edu/~scs/assets/files/haider_2018.pdf
+
+Author: X. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/xingwang_ipdps2018.pdf
+
+Author: X. Xiong
+  Link: https://link.springer.com/article/10.1007/s11227-014-1324-5
+
+Author: X. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/he2019holicTPDs.pdf
+
+Author: X. Yang
+  Link: http://cs.iit.edu/~scs/assets/files/SciDP_Kun2018.pdf
+
+Author: X. Ye
+  Link: http://cs.iit.edu/~scs/assets/files/zou2024skyway.pdf
+
+Author: X. Zhang
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: X. Zheng
+  Link: https://ieeexplore.ieee.org/iel7/6957006/6968662/06968751.pdf
+
+Author: X. Zhou
+  Link: https://ieeexplore.ieee.org/iel7/7307300/7307539/07307589.pdf
+
+Author: X. Zou
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: X.-H. Sun
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: Y. Bao
+  Link: http://cs.iit.edu/~scs/assets/files/hcda.pdf
+
+Author: Y. Chen
+  Link: http://cs.iit.edu/~scs/assets/files/he2019holicTPDs.pdf
+
+Author: Y. Cheng
+  Link: https://dl.acm.org/ft_gateway.cfm?id=2968457&type=pdf
+
+Author: Y. Fan
+  Link: http://www.cs.iit.edu/~zlan/publications/cluster17_final.pdf
+
+Author: Y. Gao
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: Y. Han
+  Link: http://cs.iit.edu/~scs/assets/files/yan2024aceminer.pdf
+
+Author: Y. Liu
+  Link: http://cs.iit.edu/~scs/assets/files/hcda.pdf
+
+Author: Y. Lu
+  Link: https://dl.acm.org/ft_gateway.cfm?ftid=1643727&id=2831249
+
+Author: Y. Wang
+  Link: http://cs.iit.edu/~scs/assets/files/hcda.pdf
+
+Author: Y. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/chen2023icache.pdf
+
+Author: Y. Yan
+  Link: https://dl.acm.org/citation.cfm?id=3158212
+
+Author: Y. Yin
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024bipartite.pdf
+
+Author: Y.-H. Liu
+  Link: http://cs.iit.edu/~scs/assets/files/TOMPECS-liu.pdf
+
+Author: Z. Dang
+  Link: http://cs.iit.edu/~scs/assets/files/dang2024pmalloc.pdf
+
+Author: Z. Lan
+  Link: http://cs.iit.edu/~scs/assets/files/xingwang_ipdps2018.pdf
+
+Author: Z. Li
+  Link: http://cs.iit.edu/~scs/assets/files/dang2024pmalloc.pdf
+
+Author: Z. Pan
+  Link: http://cs.iit.edu/~scs/assets/files/pan2024ambea.pdf
+
+Author: Z. Tang
+  Link: http://cs.iit.edu/~scs/assets/files/zou2024skyway.pdf
+
+Author: Z. Xu
+  Link: http://cs.iit.edu/~scs/assets/files/ISPA2019-ChundianLi.pdf
+
+Author: Z. Ye
+  Link: http://cs.iit.edu/~scs/assets/files/ye2020sova.pdf
+
+Author: Z. Zheng
+  Link: https://ieeexplore.ieee.org/iel7/12/7079452/06798722.pdf
+
+Author: Z. Zhou
+  Link: http://cs.iit.edu/~scs/assets/files/TPDS2016-shuibing-02.pdf
