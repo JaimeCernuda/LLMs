@@ -1,0 +1,25 @@
+sudo systemctl stop chronyd
+sudo systemctl stop chrony
+
+chronyc tracking
+
+sudo systemctl status chronyd
+sudo systemctl status chrony
+
+sudo apt install python3-pip
+
+git clone https://github.com/JaimeCernuda/LLMs.git
+cd LLMs/Collector/
+
+python3 -m venv venv
+source venv/bin/activate
+pip install psutil ntplib selenium
+
+Changes:
+NTP server (ntp1.tacc.utexas.edu)
+1 -> 0.1
+print if longer
+
+sudo chronyd -q; sudo chronyd -x; sudo /home/cc/LLMs/Collector/bin/python3 main.py
+
+ps aux | grep chronyd

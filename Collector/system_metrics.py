@@ -14,7 +14,7 @@ def get_cpu_frequency():
     return psutil.cpu_freq().current if psutil.cpu_freq() else None
 
 def get_cpu_load():
-    return psutil.cpu_percent(interval=1)
+    return psutil.cpu_percent(interval=0.1)
 
 def is_ipmi_dcmi_installed():
     return shutil.which("ipmi-dcmi") is not None

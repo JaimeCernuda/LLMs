@@ -13,7 +13,7 @@ def query_ntp_time():
     try:
         ntp_client = ntplib.NTPClient()
         request_time = time.perf_counter()  # Local timestamp before sending request
-        response = ntp_client.request("0.ubuntu.pool.ntp.org", version=3)
+        response = ntp_client.request("ntp1.tacc.utexas.edu", version=3)
         response_time = time.perf_counter()  # Local timestamp after receiving response
 
         return {
