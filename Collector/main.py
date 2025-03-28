@@ -57,6 +57,7 @@ if __name__ == "__main__":
                 # Write to CSV
                 writer.writerow(list(metrics.values()))
                 # Sleep precisely until next target time
+                if max(0, target_time - time.time()) <= 0: print("")
                 time.sleep(max(0, target_time - time.time()))
 
     finally:
