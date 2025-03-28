@@ -48,13 +48,20 @@ df_uc['timestamp'] = pd.to_datetime(df_uc['system_time'])
 df_local['timestamp'] = pd.to_datetime(df_local['system_time'])
 df_tacc['timestamp'] = pd.to_datetime(df_tacc['system_time'])
 
+global_start = max(df_uc['timestamp'].min(), df_local['timestamp'].min(), df_tacc['timestamp'].min())
+global_end = min(df_uc['timestamp'].max(), df_local['timestamp'].max(), df_tacc['timestamp'].max())
+
+df_uc['relative_time'] = (df_uc['timestamp'] - df_uc['timestamp'].iloc[0]).dt.total_seconds()
+df_local['relative_time'] = (df_local['timestamp'] - df_local['timestamp'].iloc[0]).dt.total_seconds()
+df_tacc['relative_time'] = (df_tacc['timestamp'] - df_tacc['timestamp'].iloc[0]).dt.total_seconds()
+
 # Create the plot
 p = figure(title='Chrony Time Offsets Over Time', x_axis_label='Timestamp', y_axis_label='Offset (seconds)')
 
 # Add lines
-p.line(df_uc['timestamp'], df_uc['chrony_system_time_offset'], legend_label='Time Offset (UC)')
-p.line(df_local['timestamp'], df_local['chrony_system_time_offset'], legend_label='Time Offset (Local)')
-p.line(df_tacc['timestamp'], df_tacc['chrony_system_time_offset'], legend_label='Time Offset (TACC)')
+p.line(df_uc['relative_time'], df_uc['chrony_system_time_offset'], legend_label='Time Offset (UC)')
+p.line(df_local['relative_time'], df_local['chrony_system_time_offset'], legend_label='Time Offset (Local)')
+p.line(df_tacc['relative_time'], df_tacc['chrony_system_time_offset'], legend_label='Time Offset (TACC)')
 
 # Add hover tool
 hover = HoverTool(tooltips=[
